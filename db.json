@@ -1,0 +1,82 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Future of Fintech",
+      "category": [
+        "FINANCE",
+        "TECH"
+      ],
+      "description": "Exploring how AI and blockchain are reshaping financial services",
+      "date": "2026-01-11T09:12:45.120Z",
+      "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+      "content": "Fintech is transforming rapidly with artificial intelligence, blockchain, and automation redefining financial services."
+    },
+    {
+      "id": "2",
+      "title": "AI in Accounting",
+      "category": [
+        "FINANCE"
+      ],
+      "description": "How AI is changing accounting and auditing",
+      "date": "2026-01-12T10:30:00.000Z",
+      "coverImage": "https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg",
+      "content": "AI helps accountants automate repetitive tasks and focus on high-value strategic analysis."
+    },
+    {
+      "id": "3",
+      "title": "Cloud Computing Basics",
+      "category": [
+        "TECH"
+      ],
+      "description": "Beginner guide to cloud computing",
+      "date": "2026-01-13T11:00:00.000Z",
+      "coverImage": "https://images.pexels.com/photos/1181676/pexels-photo-1181676.jpeg",
+      "content": "Cloud computing provides scalable, flexible, and cost-effective infrastructure for modern applications."
+    },
+    {
+      "id": "4",
+      "title": "Cybersecurity Trends 2026",
+      "category": [
+        "TECH"
+      ],
+      "description": "Understanding modern cybersecurity threats",
+      "date": "2026-01-14T09:45:00.000Z",
+      "coverImage": "https://images.pexels.com/photos/5380643/pexels-photo-5380643.jpeg",
+      "content": "Cybersecurity is critical as cyber attacks become more advanced and frequent."
+    },
+    {
+      "id": "5",
+      "title": "Career Growth for Chartered Accountants",
+      "category": [
+        "FINANCE"
+      ],
+      "description": "Skills every CA needs in 026",
+      "date": "2026-01-15T08:15:00.000Z",
+      "coverImage": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg",
+      "content": "Technoloy, data analysis, and continuous learning are essential for modern CA career growth."
+    },
+    {
+      "id": "0825",
+      "title": "New Blog",
+      "description": "Demo description",
+      "content": "This is full blog content. Replace it with actual content.",
+      "category": [
+        "TECH"
+      ],
+      "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+      "date": "2026-01-16T13:30:00.372Z"
+    },
+    {
+      "id": "45a4",
+      "title": "New Blog",
+      "description": "Demo description",
+      "content": "This is full blog content. Replace it with actual content.",
+      "category": [
+        "TECH"
+      ],
+      "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+      "date": "2026-01-16T13:39:14.421Z"
+    }
+  ]
+}
